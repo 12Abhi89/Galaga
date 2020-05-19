@@ -1,4 +1,4 @@
-#include<windows.h>
+
 #include <GL/glut.h>
 #include <string.h>
 #include<stdio.h>
